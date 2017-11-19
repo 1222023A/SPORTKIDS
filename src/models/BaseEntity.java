@@ -1,4 +1,4 @@
-package sportKits.models;
+package models;
 
 import java.sql.Connection;
 import java.sql.SQLException;

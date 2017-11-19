@@ -1,8 +1,6 @@
-package sportKits.models;
+package models;
 
 import java.sql.Date;
-import java.sql.ResultSet;
-import java.sql.SQLDataException;
 
 public class Coach extends User {
     private String id;

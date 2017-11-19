@@ -1,6 +1,6 @@
-package sportKits.models;
+package models;
 
-public class Parent extends User{
+public class Parent extends User {
     private String id;
     private String location;
     private String sonName;

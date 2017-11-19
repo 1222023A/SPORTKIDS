@@ -1,4 +1,4 @@
-package sportKits.models;
+package models;
 
 public class DbSportKitsService {
 }
